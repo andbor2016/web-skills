@@ -1,5 +1,5 @@
 export const nodejsCollection = {
-    name: "Node.js",
+    name: "Node",
   areas: [{
     name: "Basic",
     skills: [{
