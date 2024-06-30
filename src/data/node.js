@@ -10,6 +10,14 @@ export const nodejsCollection = {
           ["Node.js Tutorial (Codevolution)", "https://www.youtube.com/watch?v=LAUi8pPlcUM&list=PLC3y8-rFHvwh8shCMHFA5kWxD9PaPwxaY"],
         ]
       }
+    }, {
+      name: "worker threads",   
+      description: {
+        test: "Learn basic info about threads in nodejs",
+        links: [
+          ["How to use Multithreading with "worker threads" in Node.js", "https://www.youtube.com/watch?v=MuwJJrfIfsU&list=PL5Lsd0YA4OMGN86vWiW7O52izu-cTxcS3"],
+        ]
+      }
     }]
   },{
     name: "Testing",
