@@ -1,5 +1,5 @@
 export const nodejsCollection = {
-	name: "Node.js",
+    name: "Node.js",
   areas: [{
     name: "Basic",
     skills: [{
@@ -12,15 +12,15 @@ export const nodejsCollection = {
       }
     }]
   },{
-		name: "Testing",
-		skills: [{
-      name: "Unit tests",
-			description: {
-			  text: "Learn how to write unit tests.",
-				links: [
-          ["Nest.js Unit Testing | Best Practices + MongoDB", "https://www.youtube.com/watch?v=1Vc6Xw8FMpg"],						
-				]
-			},
+    name: "Testing",
+    skills: [{
+        name: "Unit tests",
+        description: {
+            text: "Learn how to write unit tests.",
+            links: [
+                ["Nest.js Unit Testing | Best Practices + MongoDB", "https://www.youtube.com/watch?v=1Vc6Xw8FMpg"],						
+            ]
+        },
     }]
-  ]
+  }]
 }
