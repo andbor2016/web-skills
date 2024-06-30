@@ -1,6 +1,7 @@
 import {fundamentalsCollection} from "./data/fundamentals.js";
 import {webcomponentsCollection} from "./data/web-components.js";
 import {accessibilityCollection} from "./data/accessibility.js";
+import {nodejsCollection} from "./data/node.js";
 import {pwaCollection} from "./data/pwa.js";
 import {architectureCollection} from "./data/architecture-and-paradigmes.js";
 import {buildtoolsCollection} from "./data/build-tools.js";
@@ -29,4 +30,5 @@ export const collections = [
 	modernCollection,
 	algorithmsCollection,
 	databasesCollection,
+	nodejsCollection,
 ];
