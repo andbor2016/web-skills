@@ -8,6 +8,7 @@ export const nodejsCollection = {
         test: "Learn basic info by them next tutorials",
         links: [
           ["Node.js Tutorial (Codevolution)", "https://www.youtube.com/watch?v=LAUi8pPlcUM&list=PLC3y8-rFHvwh8shCMHFA5kWxD9PaPwxaY"],
+          ["Questions/Answers 1", "https://github.com/tshemsedinov/NodeJS-Interview-Questions"],
         ]
       }
     }, {
