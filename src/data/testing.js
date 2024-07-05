@@ -230,6 +230,7 @@ export const testingCollection = {
 							["Javascript Testing Best Practices", "https://github.com/goldbergyoni/javascript-testing-best-practices"],
 							["What are the best practices in software Testing?", "https://www.quora.com/What-are-the-best-practices-in-software-Testing"],
 							["7 Software Testing Best Practices", "https://www.qasymphony.com/blog/7-software-testing-best-practices/"],
+							["The web-platform-tests Project", "https://github.com/web-platform-tests/wpt"]
 						]
 					}
 				}
