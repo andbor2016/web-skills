@@ -606,6 +606,7 @@ export const fundamentalsCollection = {
 							["Principles of Writing Consistent, Idiomatic JavaScript", "https://github.com/rwaldron/idiomatic.js/"],
 							["5 JavaScript Style Guides", "https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa"],
 							["JavaScript Style Guide and Coding Conventions", "https://www.w3schools.com/js/js_conventions.asp"],
+							["You Don't Know JS Yet (book series)", "https://github.com/getify/You-Dont-Know-JS"],
 						]
 					}
 				}
