@@ -606,6 +606,18 @@ export const fundamentalsCollection = {
 							["Principles of Writing Consistent, Idiomatic JavaScript", "https://github.com/rwaldron/idiomatic.js/"],
 							["5 JavaScript Style Guides", "https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa"],
 							["JavaScript Style Guide and Coding Conventions", "https://www.w3schools.com/js/js_conventions.asp"],
+						]
+					}
+				}, {
+					name: "Watch more",
+					description: {
+						text: "Learn the more from the next resources",
+						links: [
+						    ["Node.js platform in 2021", "https://www.youtube.com/watch?v=nnB7ADYso8s&list=PLHhi8ymDMrQbvuNarh_vmWoY9BhNp9v6f"]
+							["Exploring ES2024", "https://exploringjs.com/js/index.html"],
+							["Deep JavaScript: Theory and techniques", "https://exploringjs.com/deep-js/index.html"],
+							["Shell scripting with Node.js", "https://exploringjs.com/nodejs-shell-scripting/index.html"],
+							["Exploring ES6", "https://exploringjs.com/es6.html"],
 							["You Don't Know JS Yet (book series)", "https://github.com/getify/You-Dont-Know-JS"],
 						]
 					}
