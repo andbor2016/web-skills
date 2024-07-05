@@ -613,7 +613,7 @@ export const fundamentalsCollection = {
 					description: {
 						text: "Learn the more from the next resources",
 						links: [
-						    ["Node.js platform in 2021", "https://www.youtube.com/watch?v=nnB7ADYso8s&list=PLHhi8ymDMrQbvuNarh_vmWoY9BhNp9v6f"]
+						    ["Node.js platform in 2021", "https://www.youtube.com/watch?v=nnB7ADYso8s&list=PLHhi8ymDMrQbvuNarh_vmWoY9BhNp9v6f"],
 							["Exploring ES2024", "https://exploringjs.com/js/index.html"],
 							["Deep JavaScript: Theory and techniques", "https://exploringjs.com/deep-js/index.html"],
 							["Shell scripting with Node.js", "https://exploringjs.com/nodejs-shell-scripting/index.html"],
