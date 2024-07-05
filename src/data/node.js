@@ -9,6 +9,7 @@ export const nodejsCollection = {
         links: [
           ["Node.js Tutorial (Codevolution)", "https://www.youtube.com/watch?v=LAUi8pPlcUM&list=PLC3y8-rFHvwh8shCMHFA5kWxD9PaPwxaY"],
           ["Questions/Answers 1", "https://github.com/tshemsedinov/NodeJS-Interview-Questions"],
+          ["How pogramming works. Examples for Software Engineering and Programming Lectures", "https://github.com/HowProgrammingWorks"],
         ]
       }
     }, {
