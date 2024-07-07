@@ -70,6 +70,16 @@ export const frameworksAndLibrariesCollection = {
 						]
 					},
 				},
+				{
+					name: "Nest.js",
+					description: {
+						text: "Learn how to use backend framework with typescript.",
+						links: [
+							["Nest.js", "https://docs.nestjs.com"],
+							["Nest.js examples", "https://github.com/nestjs/nest/tree/master/sample"],
+						]
+					},
+				},
 			]
 		}
 	]
