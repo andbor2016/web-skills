@@ -467,6 +467,18 @@ export const fundamentalsCollection = {
 					]
 				},
 				{
+					name: "Reflection",
+					description: {
+						text: "Learn how to Reflection.",
+						links: [
+							["MDN - Reflection", "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect"],
+							["Decorators & metadata reflection", "https://www.wolksoftware.com/blog/decorators-reflection-javascript-typescript"],
+							["This tutorial is about the JavaScript Reflect API", "https://playcode.io/javascript/reflect"],
+							["Reflect taken from typescript", "https://blog.bitsrc.io/typescripts-reflect-metadata-what-it-is-and-how-to-use-it-fb7b19cfc7e2"],
+						]
+					}
+				},
+				{
 					name: "Regex",
 					description: {
 						text: "Learn how to use regex to extract information from strings.",
